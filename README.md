@@ -43,7 +43,7 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 ### Session Description
 
-Azure DevOps and GitHub are better together—and the integration keeps getting smarter. In this demo-heavy session, you’ll see how hybrid patterns that connect GitHub with Azure Boards and Azure Pipelines enable Agentic DevOps. See the all of the newest AI-powered capabilities in Azure DevOps. Plus, hear how Microsoft's engineering teams adopted this approach and what they gained.
+Azure DevOps and GitHub are better together, and the integration keeps getting smarter. In this demo-heavy session, you’ll see how hybrid patterns that connect GitHub with Azure Boards and Azure Pipelines enable Agentic DevOps. See all the newest AI-powered capabilities in Azure DevOps, and hear how Microsoft's engineering teams adopted this approach and what they gained.
 
 ### 🚀 Getting started
 
@@ -51,10 +51,7 @@ If you're following these topics at your own pace:
 - Review the resources in the [📚 Resources and Next Steps](#-resources-and-next-steps) section.
 - Start with the [Azure DevOps / GitHub Integration Documentation](https://learn.microsoft.com/azure/devops/cross-service/github-integration).
 - Explore migration guidance with [GitHub Enterprise Importer (GHEI)](https://docs.github.com/migrations/using-github-enterprise-importer/migrating-from-azure-devops-to-github-enterprise-cloud/about-migrations-from-azure-devops-to-github-enterprise-cloud).
-- When you are ready, learn how to set up migration tools, configure permissions, and migrate repositories using GitHub's official migration tools. To get started in a guided lab session:
-  - Go to https://learn.github.com/skills
-  - Go to the [Switch to GitHub](https://learn.github.com/skills#switch-to-github) section.
-  - Start the [Migrate an Azure DevOps Repository](https://github.com/skills/migrate-ado-repository) lab. 
+- Build migration familiarity with the [Migrate an Azure DevOps Repository](https://github.com/skills/migrate-ado-repository) **GitHub Skills** lab. <br/>You can find all **GitHub Skills** labs here: https://learn.github.com/skills.
 
 ### 🧠 Learning Outcomes
 
@@ -62,7 +59,7 @@ By the end of this session, you will be able to:
 
 - Understand Microsoft's and GitHub's guidance for existing **Azure DevOps** customers. From https://devblogs.microsoft.com/devops/azure-devops-and-github-repositories-next-steps-in-the-path-to-agentic-ai: <br/>_"Now is the ideal moment to move your repositories to **GitHub** so your teams can fully harness **GitHub Copilot’s** agentic power while still benefiting from your existing investments in **Azure Boards** and **Azure Pipelines**."_ 
 - Understand what's new and coming soon for **Azure DevOps** and the integration with **GitHub** and **GitHub Copilot**.
-- Understand how to get the most out of the AI Powered SDLC.
+- Understand how to get the most out of an AI-powered SDLC.
 
 ### 💬 Keep Learning with Copilot
 
