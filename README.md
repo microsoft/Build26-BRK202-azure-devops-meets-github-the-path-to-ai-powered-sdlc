@@ -39,33 +39,35 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRKXXX: SESSION TITLE
+## 🔥 BRK202: Azure DevOps meets GitHub, the path to AI powered SDLC
 
 ### Session Description
 
-*Add Session Description*
+Azure DevOps and GitHub are better together—and the integration keeps getting smarter. In this demo-heavy session, you’ll see how hybrid patterns that connect GitHub with Azure Boards and Azure Pipelines enable Agentic DevOps. See the all of the newest AI-powered capabilities in Azure DevOps. Plus, hear how Microsoft's engineering teams adopted this approach and what they gained.
 
 ### 🏫 Getting started in a guided session
 
-To get started in a guided lab session:
-- <!-- step 1 -->
-- <!-- step 2 -->
-- <!-- step 3 -->
+Learn how to set up migration tools, configure permissions, and migrate repositories using GitHub's official migration tools. To get started in a guided lab session:
+- Go to https://learn.github.com/skills
+- Go to the [Switch to GitHub](https://learn.github.com/skills#switch-to-github) section.
+- Start the [Migrate an Azure DevOps Repository](https://github.com/skills/migrate-ado-repository) lab. 
 
+<!-- 
 ### 🏠 Getting started in your own environment
 
 If you're following these steps at your own pace:
 - Clone this repository
 - Set up your development environment
 - <!-- step 3 -->
+ -->
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, you will be able to:
 
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
+- Understand Microsoft's and GitHub's guidance for existing **Azure DevOps** customers. From https://devblogs.microsoft.com/devops/azure-devops-and-github-repositories-next-steps-in-the-path-to-agentic-ai: <br/>_"Now is the ideal moment to move your repositories to **GitHub** so your teams can fully harness **GitHub Copilot’s** agentic power while still benefiting from your existing investments in **Azure Boards** and **Azure Pipelines**."_ 
+- Understand what's new and coming soon for **Azure DevOps** and the integration with **GitHub** and **GitHub Copilot**.
+- Understand how to get the most out of the AI Powered SDLC.
 
 ### 💬 Keep Learning with Copilot
 
@@ -79,16 +81,23 @@ Use these as a starting point — or write your own!
 
 ### 💻 Technologies Used
 
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
+1. GitHub
+1. Azure DevOps
 
 ### 📚 Resources and Next Steps
 
 | Resource | Description |
 |:---------|:------------|
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
-
+| [The Forrester Wave™: DevOps Platforms, Q2 2025](https://reprint.forrester.com/reports/the-forrester-wave-tm-devops-platforms-q2-2025-e994eb12/index.html) | Microsoft (**GitHub** and **Azure DevOps**) has been named as a **Wave Leader 2025** in the **Forrester Wave™: DevOps Platforms, Q2 2025 report**. <br/><sub> _NOTE: Forrester does not endorse any company, product, brand, or service included in its research publications and does not advise any person to select the products or services of any company or brand based on the ratings included in such pu blications. Information is based on the best available resources. Opinions reflect judgment at the time and are subject to change. For more information, read about Forrester’s objectivity [here](https://www.forrester.com/about-us/objectivity/)._</sub> |
+| [GitHub Enterprise Importer (GHEI)](https://docs.github.com/migrations/using-github-enterprise-importer/migrating-from-azure-devops-to-github-enterprise-cloud/about-migrations-from-azure-devops-to-github-enterprise-cloud) | You can use **GitHub Enterprise Importer** to migrate repositories from **Azure DevOps** to **GitHub Enterprise Cloud** (GitHub.com or GHE.com). |
+| [Azure DevOps / GitHub Integration Documentation](https://learn.microsoft.com/azure/devops/cross-service/github-integration) | Enable seamless collaboration between development and project management, enhancing traceability, workflow efficiency, and overall productivity. |
+| [Use GitHub Copilot with Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/github/work-item-integration-github-copilot) | **Azure Boards** integrates with the **GitHub Copilot cloud agent** to streamline your development workflow. You can use work items directly with Copilot, which automatically creates branches, implements code changes, and generates draft pull requests while keeping your work item updated with progress. |
+| [Azure DevOps Remote MCP Server](https://learn.microsoft.com/en-us/azure/devops/mcp-server/mcp-server-overview) | The **Remote Azure DevOps MCP Server** is a hosted version of the [Azure DevOps MCP Server](https://learn.microsoft.com/en-us/azure/devops/mcp-server/mcp-server-overview) that doesn't require a local installation. Instead of running the server on your machine, you connect **GitHub Copilot** directly to the Azure DevOps–hosted endpoint by using streamable HTTP transport. |
+| https://aka.ms/AzureDevOpsRoadmap | **Azure DevOps + GitHub integration Roadmap** - Keep up with our recent and upcoming investments on the Azure DevOps public roadmap, including integration improvements. |
+| [Azure DevOps Basic included with GitHub Enterprise](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/faq-user-and-permissions-management?view=azure-devops#github-enterprise) | Azure DevOps Basic usage rights are now included with GitHub Enterprise Cloud. |
+| https://gh.io/mer | GitHub is shipping new features, product updates, and best practices faster than ever. To help you keep up with all our releases, previews, videos, whitepapers, new documentation, etc. check out the **GitHub Monthly Enterprise Roundup (MER)**. Our goal with the MER is provide one source for discovering everything that is new from an enterprise perspective. |
+| https://gh.io/lighe | Want to get notified of when the next MER is available? Go to **GitHub Enterprise** on **LinkedIn** and click on the "Follow" button.  |
 
 ### 🌟 Microsoft Learn MCP Server
 
@@ -115,10 +124,18 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="http://github.com/danhellem">
+        <img src="img/DanHellem.png" width="100px;" alt="Dan Hellem"/><br />
+        <sub><b>Dan Hellem</b></sub></a><br />
+            <a href="https://github.com/danhellem" title="Azure DevOps meets GitHub, the path to AI powered SDLC">📢</a>
+    </td>
+</tr></table>
+<table>
+<tr>
+    <td align="center"><a href="http://github.com/daveburnisonms">
+        <img src="img/Dave Burnison_240_110_Small.jpg" width="100px;" alt="Dave Burnison"/><br />
+        <sub><b>Dave Burnison</b></sub></a><br />
+            <a href="https://github.com/daveburnisonms" title="Azure DevOps meets GitHub, the path to AI powered SDLC">📢</a>
     </td>
 </tr></table>
 
