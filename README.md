@@ -45,21 +45,16 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 Azure DevOps and GitHub are better together—and the integration keeps getting smarter. In this demo-heavy session, you’ll see how hybrid patterns that connect GitHub with Azure Boards and Azure Pipelines enable Agentic DevOps. See the all of the newest AI-powered capabilities in Azure DevOps. Plus, hear how Microsoft's engineering teams adopted this approach and what they gained.
 
-### 🏫 Getting started in a guided session
+### 🚀 Getting started
 
-Learn how to set up migration tools, configure permissions, and migrate repositories using GitHub's official migration tools. To get started in a guided lab session:
-- Go to https://learn.github.com/skills
-- Go to the [Switch to GitHub](https://learn.github.com/skills#switch-to-github) section.
-- Start the [Migrate an Azure DevOps Repository](https://github.com/skills/migrate-ado-repository) lab. 
-
-<!-- 
-### 🏠 Getting started in your own environment
-
-If you're following these steps at your own pace:
-- Clone this repository
-- Set up your development environment
-- <!-- step 3 -->
- -->
+If you're following these topics at your own pace:
+- Review the resources in the [📚 Resources and Next Steps](#-resources-and-next-steps) section.
+- Start with the [Azure DevOps / GitHub Integration Documentation](https://learn.microsoft.com/azure/devops/cross-service/github-integration).
+- Explore migration guidance with [GitHub Enterprise Importer (GHEI)](https://docs.github.com/migrations/using-github-enterprise-importer/migrating-from-azure-devops-to-github-enterprise-cloud/about-migrations-from-azure-devops-to-github-enterprise-cloud).
+- When you are ready, learn how to set up migration tools, configure permissions, and migrate repositories using GitHub's official migration tools. To get started in a guided lab session:
+  - Go to https://learn.github.com/skills
+  - Go to the [Switch to GitHub](https://learn.github.com/skills#switch-to-github) section.
+  - Start the [Migrate an Azure DevOps Repository](https://github.com/skills/migrate-ado-repository) lab. 
 
 ### 🧠 Learning Outcomes
 
@@ -71,13 +66,27 @@ By the end of this session, you will be able to:
 
 ### 💬 Keep Learning with Copilot
 
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
+Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in Visual Studio Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
 
 Use these as a starting point — or write your own!
 
-<!-- Prompts will be tailored to this session's content during repo setup. -->
+1. Understand the migration path:
 
-> *Prompts coming soon — check back after the session content is finalized.*
+```text
+Summarize the recommended path for Azure DevOps customers to adopt GitHub while keeping Azure Boards and Azure Pipelines. Include a phased rollout plan for teams, repositories, and governance.
+```
+
+2. Go deeper with official docs:
+
+```text
+Using the Microsoft Learn MCP Server, find the latest guidance for Azure DevOps and GitHub integration and explain how to set up traceability from Azure Boards work items to GitHub commits and pull requests.
+```
+
+3. Build an AI-powered SDLC workflow:
+
+```text
+Help me design an AI-powered SDLC workflow that combines GitHub Copilot, Azure Boards, and Azure Pipelines. Include branch strategy, pull request checks, release gates, and team adoption recommendations.
+```
 
 ### 💻 Technologies Used
 
@@ -103,7 +112,7 @@ Use these as a starting point — or write your own!
 
 The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's official documentation — grounded, up-to-date answers about the products and services covered in this session.
 
-**VS Code** — One click installation: 
+**Visual Studio Code** — One click installation: 
 
 [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
 
