@@ -39,7 +39,7 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRK202: Azure DevOps meets GitHub, the path to AI powered SDLC
+## 🔥 [BRK202: Azure DevOps meets GitHub, the path to AI powered SDLC](https://build.microsoft.com/en-US/sessions/BRK202?source=sessions)
 
 ### Session Description
 
