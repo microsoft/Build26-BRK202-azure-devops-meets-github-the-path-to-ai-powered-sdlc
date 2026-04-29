@@ -97,9 +97,6 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
         <sub><b>Dan Hellem</b></sub></a><br />
             <a href="https://github.com/danhellem" title="Azure DevOps meets GitHub, the path to AI powered SDLC">📢</a>
     </td>
-</tr></table>
-<table>
-<tr>
     <td align="center"><a href="http://github.com/daveburnisonms">
         <img src="img/Dave Burnison_240_110_Small.jpg" width="100px;" alt="Dave Burnison"/><br />
         <sub><b>Dave Burnison</b></sub></a><br />
