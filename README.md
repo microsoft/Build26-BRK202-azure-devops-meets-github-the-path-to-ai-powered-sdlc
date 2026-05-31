@@ -71,6 +71,15 @@ Help me design an AI-powered SDLC workflow that combines GitHub Copilot, Azure B
 | [Azure DevOps Basic included with GitHub Enterprise](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/faq-user-and-permissions-management?view=azure-devops#github-enterprise) | Azure DevOps Basic usage rights are now included with GitHub Enterprise Cloud. |
 | https://gh.io/mer | GitHub is shipping new features, product updates, and best practices faster than ever. To help you keep up with all our releases, previews, videos, whitepapers, new documentation, etc. check out the **GitHub Monthly Enterprise Roundup (MER)**. Our goal with the MER is provide one source for discovering everything that is new from an enterprise perspective. |
 | https://gh.io/lighe | Want to get notified of when the next MER is available? Go to **GitHub Enterprise** on **LinkedIn** and click on the "Follow" button.  |
+| **Dave's Demo Videos** | Watch these videos to see how to harness the **agentic power of the GitHub Copilot cloud agent** to act on **Azure Boards** and **Azure Pipelines**.| 
+| | [(3:51) Proof of Concept - Azure DevOps MCP and GitHub Copilot.mp4](https://github.com/microsoft/Build26-BRK202-azure-devops-meets-github-the-path-to-ai-powered-sdlc/releases/download/Demo-Videos/01.Proof.of.Concept.-.Azure.DevOps.MCP.and.GitHub.Copilot.mp4) |
+| | [(1:09) Create Sprint Schedule.mp4](https://github.com/microsoft/Build26-BRK202-azure-devops-meets-github-the-path-to-ai-powered-sdlc/releases/download/Demo-Videos/02.Create.Sprint.Schedule.mp4) |
+| | [(1:46) Convert Wiki contents to agents and instructions.mp4](https://github.com/microsoft/Build26-BRK202-azure-devops-meets-github-the-path-to-ai-powered-sdlc/releases/download/Demo-Videos/03.Convert.Wiki.contents.to.agents.and.skills.mp4) |
+| | [(3:57) Filter available dogs by breed.mp4](https://github.com/microsoft/Build26-BRK202-azure-devops-meets-github-the-path-to-ai-powered-sdlc/releases/download/Demo-Videos/05.Security.Campaigns.mp4) |
+| | [(3:42) Security Campaigns.mp4](https://github.com/microsoft/Build26-BRK202-azure-devops-meets-github-the-path-to-ai-powered-sdlc/releases/download/Demo-Videos/05.Security.Campaigns.mp4) |
+| | [(3:18) Create a Pipeline and Fix Pipeline Failures.mp4](https://github.com/microsoft/Build26-BRK202-azure-devops-meets-github-the-path-to-ai-powered-sdlc/releases/download/Demo-Videos/06.Create.a.Pipeline.and.Fix.Pipeline.Failures.mp4) |
+| | [(2:33) GitHub Copilot CLI and the Azure DevOps MCP Server.mp4](https://github.com/microsoft/Build26-BRK202-azure-devops-meets-github-the-path-to-ai-powered-sdlc/releases/download/Demo-Videos/07.GitHub.Copilot.CLI.mp4) |
+
 
 ### 🌟 Microsoft Learn MCP Server
 
