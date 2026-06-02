@@ -16,9 +16,6 @@ Azure DevOps and GitHub are better together, and the integration keeps getting s
 
 If you're following these topics at your own pace:
 - Review the resources in the [📚 Resources and Next Steps](#-resources-and-next-steps) section.
-- Start with the [Azure DevOps / GitHub Integration Documentation](https://learn.microsoft.com/azure/devops/cross-service/github-integration).
-- Explore migration guidance with [GitHub Enterprise Importer (GHEI)](https://docs.github.com/migrations/using-github-enterprise-importer/migrating-from-azure-devops-to-github-enterprise-cloud/about-migrations-from-azure-devops-to-github-enterprise-cloud).
-- Build migration familiarity with the [Migrate an Azure DevOps Repository](https://github.com/skills/migrate-ado-repository) **GitHub Skills** lab. <br/>You can find all **GitHub Skills** labs here: https://learn.github.com/skills.
 
 ### 🧠 Learning Outcomes
 
