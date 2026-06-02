@@ -24,7 +24,7 @@ If you're following these topics at your own pace:
 
 By the end of this session, you will be able to:
 
-- Understand Microsoft's and GitHub's guidance for existing **Azure DevOps** customers. From https://devblogs.microsoft.com/devops/azure-devops-and-github-repositories-next-steps-in-the-path-to-agentic-ai: <br/>_"Now is the ideal moment to move your repositories to **GitHub** so your teams can fully harness **GitHub Copilot’s** agentic power while still benefiting from your existing investments in **Azure Boards** and **Azure Pipelines**."_ 
+- Understand Microsoft's and GitHub's guidance for existing **Azure DevOps** customers. From https://aka.ms/GitHubAzureDevOpsBuild2026<br/>_"Organizations that move repositories to GitHub unlock the full agentic development experience, including a broad choice of models from Anthropic, OpenAI, Google, and others in Copilot, along with agentic workflows across GitHub, VS Code, mobile, CLI, and integrations like Teams, Slack, and Azure Boards. Enterprise governance is built in through an agent control plane that provides visibility, audit, and policy management.<br/><br/>Teams can continue using Azure DevOps capabilities such as Azure Boards, Pipelines, and Test Plans alongside their GitHub repos. Azure DevOps basic usage rights are included with GitHub Enterprise, making it easier to adopt a hybrid model without additional overhead. Enterprise Live Migrations and deeper GitHub–Azure DevOps integration make it practical to transition at enterprise scale, as reflected in Microsoft’s own migration journey."_ 
 - Understand what's new and coming soon for **Azure DevOps** and the integration with **GitHub** and **GitHub Copilot**.
 - Understand how to get the most out of an AI-powered SDLC.
 
