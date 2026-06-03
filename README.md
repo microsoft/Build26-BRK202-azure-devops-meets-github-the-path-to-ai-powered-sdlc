@@ -51,23 +51,31 @@ Help me design an AI-powered SDLC workflow that combines GitHub Copilot, Azure B
 
 ### 💻 Technologies Used
 
-1. GitHub
-1. Azure DevOps
+- GitHub
+  - GitHub Copilot app
+  - GitHub Copilot custom agents and instructions
+  - GitHub Copilot cloud agent 
+  - GitHub Copilot CLI
+  - Security Campaigns
+- Azure DevOps
+  - Azure DevOps Remote MCP Server
+  - Enterprise Live Migrations (ELM)
+  - Copilot Code Reviews for Azure Repos
+  - Copilot Autofix for GitHub Advanced Security in Azure DevOps
 
 ### 📚 Resources and Next Steps
 
 | Resource | Description |
 |:---------|:------------|
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
-| https://aka.ms/adoELM | Large repos and complex organizations need migration options that respect how their teams operate. **Enterprise Live Migrations (ELM)**, now available in preview, enables organizations to migrate multiple repositories together with minimal cutover downtime. |
 | [GitHub Copilot app: The agent-native desktop experience](https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/) | Professional software demands judgment, verification, and accountability. That is why the GitHub Copilot app, sandboxes, code review, automation, context, and partner ecosystem are coming together as one system: agents can do more of the work, while developers keep control of quality, policy, and delivery. |
+| https://aka.ms/adoELM | Large repos and complex organizations need migration options that respect how their teams operate. **Enterprise Live Migrations (ELM)**, now available in preview, enables organizations to migrate multiple repositories together with minimal cutover downtime. |
 | [Azure DevOps / GitHub Integration Documentation](https://learn.microsoft.com/azure/devops/cross-service/github-integration) | Enable seamless collaboration between development and project management, enhancing traceability, workflow efficiency, and overall productivity. |
 | [Use GitHub Copilot with Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/github/work-item-integration-github-copilot) | **Azure Boards** integrates with the **GitHub Copilot cloud agent** to streamline your development workflow. You can use work items directly with Copilot, which automatically creates branches, implements code changes, and generates draft pull requests while keeping your work item updated with progress. |
 | [Azure DevOps Remote MCP Server](https://learn.microsoft.com/en-us/azure/devops/mcp-server/remote-mcp-server?view=azure-devops) | The **Remote Azure DevOps MCP Server** is a hosted version of the [Azure DevOps MCP Server](https://learn.microsoft.com/en-us/azure/devops/mcp-server/mcp-server-overview) that doesn't require a local installation. Instead of running the server on your machine, you connect **GitHub Copilot** directly to the Azure DevOps–hosted endpoint by using streamable HTTP transport. |
 | https://aka.ms/AzureDevOpsRoadmap | **Azure DevOps + GitHub integration Roadmap** - Keep up with our recent and upcoming investments on the Azure DevOps public roadmap, including integration improvements. |
 | [Azure DevOps Basic included with GitHub Enterprise](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/faq-user-and-permissions-management?view=azure-devops#github-enterprise) | Azure DevOps Basic usage rights are now included with GitHub Enterprise Cloud. |
 | https://gh.io/mer | GitHub is shipping new features, product updates, and best practices faster than ever. To help you keep up with all our releases, previews, videos, whitepapers, new documentation, etc. check out the **GitHub Monthly Enterprise Roundup (MER)**. Our goal with the MER is provide one source for discovering everything that is new from an enterprise perspective. |
-| https://gh.io/lighe | Want to get notified of when the next MER is available? Go to **GitHub Enterprise** on **LinkedIn** and click on the "Follow" button.  |
 | **Dave's Demo Videos** | Watch these videos to see how to harness the **agentic power of the GitHub Copilot cloud agent** to act on **Azure Boards** and **Azure Pipelines**.| 
 | | [(3:51) Proof of Concept - Azure DevOps MCP and GitHub Copilot.mp4](https://github.com/microsoft/Build26-BRK202-azure-devops-meets-github-the-path-to-ai-powered-sdlc/releases/download/Demo-Videos/01.Proof.of.Concept.-.Azure.DevOps.MCP.and.GitHub.Copilot.mp4) |
 | | [(1:09) Create Sprint Schedule.mp4](https://github.com/microsoft/Build26-BRK202-azure-devops-meets-github-the-path-to-ai-powered-sdlc/releases/download/Demo-Videos/02.Create.Sprint.Schedule.mp4) |
